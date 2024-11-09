@@ -37,4 +37,4 @@ Ethernet MTU он составляет 1500. Для кадров Wi-Fi это у
 
 ### Image levels
 
-![alt text](./LevelsShow.png)
+![alt text](./images/LevelsShow.png)
